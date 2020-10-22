@@ -11,7 +11,7 @@ git clone https://github.com/ZiaCodes/Travel-Agency-Web-Design.git
 > CSS
 > JS
 
-> Bootstrap
+> Bootstrap 3.0
 
 
 
